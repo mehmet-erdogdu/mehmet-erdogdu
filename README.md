@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Mehmet
 
 <a href="https://app.daily.dev/mehmeterdogdu52"><img src="https://api.daily.dev/devcards/cc45ce7571d84493a96610528a3e89d1.png?r=p1r" width="400" alt="Mehmet Erdoğdu's Dev Card"/></a>
 
+<!--
 [![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmet-erdogdu)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 <!--
 **mehmet-erdogdu/mehmet-erdogdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
