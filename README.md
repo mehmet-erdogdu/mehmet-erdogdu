@@ -1,22 +1,11 @@
-### Hi there 👋 I am Mehmet
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mehmet ERDOĞDU
+======================================================================================================================================
 
-<a href="https://app.daily.dev/mehmeterdogdu52"><img src="https://api.daily.dev/devcards/cc45ce7571d84493a96610528a3e89d1.png?r=p1r" width="400" alt="Mehmet Erdoğdu's Dev Card"/></a>
+Senior Full-Stack Developer
+---------------------------
 
-<!--
-[![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmet-erdogdu)](https://github.com/anuraghazra/github-readme-stats)
--->
+I was born in 1993 at Ordu. When I was 13 my curiosity of controlling a lot of devices led me to study Information Technologies at High School and after that I interested in electronical things. I enrolled to Electrical and Electronics Engineering in University. I have enjoyed so much at my Bachelor degree. With my graduation I decided to improve my programming skills about software, AI and VR. Programming is not just my job. It is my life style.
 
-<!--
-**mehmet-erdogdu/mehmet-erdogdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Turkey
+*   🖥️  See my portfolio at [LinkedId](http://www.linkedin.com/in/mehmeterdogdu52/)
+*   🧠  I'm learning .Net, Flutter, PHP, Docker, Kubernates etc
